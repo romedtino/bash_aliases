@@ -2,6 +2,7 @@
 Simple bash quality of improvements
 
 **output_aliases** - Output your aliases in your terminal window to easily see a list of your shortcuts
+
 Sample ~/.bashrc
 ```
 if [ -f ~/.aliases.bash ]; then
